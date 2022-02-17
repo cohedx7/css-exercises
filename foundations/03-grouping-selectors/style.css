@@ -1,0 +1,14 @@
+.affirmative,
+.negation {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.affirmative {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.negation {
+    background-color: yellow;
+}
